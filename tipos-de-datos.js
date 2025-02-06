@@ -11,4 +11,3 @@ var gusto = 'Ver la formula 1'
 var gusto2 ='Dormir jaja'
 
 console.log(`Mi nombre es ${nombre}, y tengo ${edad} años, me gusta ${gusto} y ${gusto2}  `)
-
